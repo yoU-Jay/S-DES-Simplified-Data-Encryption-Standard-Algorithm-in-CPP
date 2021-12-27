@@ -1,1 +1,1 @@
-# S-DES-Simplified-Data-Encryption-Standard-Algorithm-in-C-
+# S-DES-Simplified-Data-Encryption-Standard-Algorithm-in-CPP
