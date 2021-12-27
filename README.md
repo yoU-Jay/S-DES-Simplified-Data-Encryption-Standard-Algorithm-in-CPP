@@ -1,8 +1,9 @@
 # S-DES-Simplified-Data-Encryption-Standard-Algorithm-in-CPP
 Simplified Data Encryption Standard (S-DES) is a simple version of the DES Algorithm. It is similar to the DES algorithm but is a smaller algorithm and has fewer parameters than DES. It was made for educational purposes so that understanding DES would become simpler.
 ### Sample Output
+```
 Enter 10-bit Master Key (using space)
-1 0 0 1 0 0 0 0 0 1 0
+1 0 0 1 0 0 0 0 0 1 0
 
 KEY GENERATION..
 
@@ -139,3 +140,4 @@ After combine
 
 After IP-Inverse, 8-bit Plain Text is: 
 1 0 0 1 0 1 1 1 
+```
